@@ -11,7 +11,7 @@
 
 А так же эзотерикой:
 
-<b>1. Скил оптимальности: особенность | 👜м + 📿ж</b>
+<b>1. Скил оптимальности: особенность | артефакт передвижения 👜м + 📿ж</b>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/interaction/other_knowledge/README.md">Иное познание</a>
 
@@ -19,11 +19,11 @@
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/order/portable_food/README.md">Портативная еда</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/order/maze_game/README.md">Игра лабиринт</a>
    
-<b>3. Скил деликатности: взаимодействие | 💍ж + 🪢м</b>
+<b>3. Скил деликатности: взаимодействие | артефакт обобщения 💍ж + 🪢м</b>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/interaction/talent_catalyst/README.md">Катализатор талантов</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/interaction/education_individuality/README.md">Образование индивидуальности</a>
 
-<b>4. Скил эффективности: распределение | 👜ж + 📿м</b>
+<b>4. Скил эффективности: распределение | артефакт неизвестности 👜ж + 📿м</b>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
