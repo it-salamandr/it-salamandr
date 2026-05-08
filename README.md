@@ -29,6 +29,6 @@
 
 <hr>
 
-Проекты с галочкой означают что проекты были доведены до целостного формата "выживание" (50 на 50 верно). Но это не конец, доработка может вестить и дальше.
+Проекты с галочкой означают что проекты были доведены до целостного формата "выживание" (50 на 50 верно). Но это не конец, доработка может вестить и дальше. По совокупности образованы в новый проект: <a href="[https://github.com/it-salamandr/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md](https://otherside-world.ru)">Изнанка мира</a>.
 
 <a href="https://www.litres.ru/author/andrey-volkov-33168547/">Мои книги</a> :: <a href="https://t.me/otherside_world">ТГ группа по разработкам</a>
