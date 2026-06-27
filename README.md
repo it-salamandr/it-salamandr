@@ -13,7 +13,7 @@
 
 <hr>
 
-А так же эзотерикой:
+А так же занимаюсь эзотерикой:
 
 <b>1. Скил оптимальности: особенность | артефакт передвижения 👜м + 📿ж</b>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/interaction/creating_privileges/README.md">Создание привилегий</a>
