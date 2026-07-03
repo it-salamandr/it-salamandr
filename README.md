@@ -31,6 +31,11 @@
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/uniqueness/different_understanding_capitalism/README.md">Иное понимание капитализма</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
+   📦 - контейнер для инструмента
+   🪢 - браслет с камнями или кожанный
+   💍 - кольцо (без камня) с символами
+   📿 - ожерелье
+
 <hr>
 
 📌 Концепции моего мировозрения изложены в <a href="https://www.litres.ru/author/andrey-volkov-33168547/">моих книгах</a>.
