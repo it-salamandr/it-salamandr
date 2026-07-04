@@ -32,7 +32,7 @@
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/uniqueness/planning_basics/README.md">Основы планирования</a>
 
    📦 - контейнер для инструмента
-   🪢 - браслет с камнями или кожанный
+   🪢 - браслет с камнями или кожаный
    💍 - кольцо (без камня) с символами
    📿 - ожерелье
 
