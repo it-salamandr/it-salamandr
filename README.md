@@ -1,4 +1,4 @@
-### 👋Привет, если с приветом!
+### 👋Здорово, коли здоров!
 
 Я занимаюсь php и javascript-программированием: 
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
