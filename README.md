@@ -40,4 +40,4 @@
 
 📌 Концепции моего мировозрения изложены в <a href="https://www.litres.ru/author/andrey-volkov-33168547/">моих книгах</a>.
 
-![](./pictures/8glav.png)
+![](./pictures/seriya_knig.png)
