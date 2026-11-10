@@ -38,6 +38,6 @@
 
 <hr>
 
-📌 Концепции моего мировозрения изложены в <a href="https://www.litres.ru/author/andrey-volkov-33168547/">моих книгах</a>.
+📌 Концепции моего мировоззрения изложены в рамках «Метафизической кибернетики» в <a href="https://www.litres.ru/author/andrey-volkov-33168547/">моих книгах</a>.
 
 ![](./pictures/seriya_knig_otherside_world.png)
