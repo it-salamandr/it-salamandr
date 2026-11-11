@@ -11,7 +11,7 @@
 
 - Онлайн приложение: <a href="https://otherside-world.ru/vigil/">https://otherside-world.ru/vigil/</a> (на айфонах скорее всего не работает - покупайте дешевый планшет)
 
-- Телеграм для поддержки и направления: <a href="https://t.me/+pray5RL3J3UyYTQy">t.me/pm_bdilka</a>
+- Телеграм для поддержки и направления: <a href="https://t.me/otherside_world">t.me/otherside_world</a>
 
 
 
