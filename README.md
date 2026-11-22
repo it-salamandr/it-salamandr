@@ -1,6 +1,6 @@
 ### 👋Привет, если с приветом!
 
-Я занимаюсь php и javascript-программированием: 
+Я занимаюсь php и html программированием: 
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/distribution/business_code/README.md">Бизнес код</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/distribution/resonance_code_constructor/README.md">Конструктор резонансного кода</a>
    - [X] <a href="https://github.com/it-salamandr/botogame/blob/main/freedom/distribution/resonant_code/README.md">Резонансный код</a>
